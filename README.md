@@ -9,3 +9,4 @@ Follow the data science exercises in the following order:
 2. pandas-exercise
 3. matplotlib-basic-exercise
 4. intro-to-machine-learning-with-scikit-learn
+5. logistic-regression
