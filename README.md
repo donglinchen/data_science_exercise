@@ -12,4 +12,5 @@ Follow the data science exercises in the following order:
 5. logistic-regression
 6. random-forest
 7. text-classification
-8. KMeans clustering
+8. KMeans-clustering
+9. principle-comonent-analysis
