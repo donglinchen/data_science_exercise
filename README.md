@@ -1,9 +1,6 @@
- <font size="6" color='blue'> Data Science Basics and Exercises</font>
- 
-&nbsp;
-&nbsp;
+ # Data Science Basics and Exercises
 
-# 1. Data Science Project Life Cycle
+## 1. Data Science Project Life Cycle
 
 ### Business Understanding
 - Identify business problems and define goals
@@ -29,11 +26,8 @@
 
 <font color='blue'> We focus on Data exploration, data processing, and modeling </font>
 
-&nbsp;
-&nbsp;
 
-
-# 2. Data science tools and libraries
+## 2. Data science tools and libraries
 __Python__ - the programming langualge for data science community
 - Since 1991
 - Simple to use, easy to understand. scientific community use it to glue many different software components
@@ -67,10 +61,7 @@ __Scipy__ - Fundamental algorithms for scientific computing in Python
 - Since 2001
 - Builds on Numpy, provides comprehensive scientific computation functions.
 
-&nbsp;
-&nbsp;
-
-# 3. Exercises
+## 3. Exercises
 
 Follow the data science exercises in the following order:
 1. numpy_exercise
