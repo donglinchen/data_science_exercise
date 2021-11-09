@@ -1,26 +1,26 @@
- # Data Science Basics and Exercises
+# Data Science Basics and Exercises
 
 ## 1. Data Science Project Life Cycle
 
-### Business Understanding
+#### Business Understanding
 - Identify business problems and define goals
 - Identify data source that can help with answering questions, or need to collect more data?
 - Define measurable success metrics, accuracy rate
 
-### <font color='blue'>Data Acquisition and understanding</font>
+#### <font color='blue'>Data Acquisition and understanding</font>
 - Extract and load the data
 - Explore the data: statistics, distributions and correlations, noise and outliers, missing data...
 - Process the data to produce a clean, high-quality data set
 
-### <font color='blue'>Modeling</font>
+#### <font color='blue'>Modeling</font>
 - Feature engineering
 - Model selection
 - Model training and evaluation
 
-### Deployment
+#### Deployment
 - Provide model prediction through appliation API
 
-### Customer acceptance
+#### Customer acceptance
 - System validateion
 - User feedback
 
