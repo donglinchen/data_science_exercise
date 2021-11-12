@@ -73,3 +73,32 @@ Follow the data science exercises in the following order:
 7. [text-classification](7_text-classification.ipynb)
 8. [KMeans-clustering](8_KMeans-clustering.ipynb)
 9. [principle-component-analysis](9_principle-component-analysis.ipynb)
+
+## 4. Important topics and concepts
+
+1. Feature engineering for text classification
+   1. Bag og words
+   2. TfIdf verctorization
+   3. Pad sequence
+   4. Word Embeding
+
+2. Supervised and unsuperived learning
+   1. Linear regression
+   2. logistic regression, sigmoid function
+   3. Bias vs variance
+   4. Underfitting vs Overfitting
+   5. Hyper-parameter tuning and Regularization
+
+3. Model evaluation
+   1. confusion matrix 
+   2. Accuracy, Precision, Recall, F-score
+
+## 5. Reference materials and online courses
+1. https://www.coursera.org/learn/machine-learning
+2. https://ibm-learning.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/ 
+3. https://ibm-learning.udemy.com/course/linear-algebra-course
+   
+
+
+
+
